@@ -19,7 +19,7 @@ func TestFireFoxParseProfile(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	profile, err = ff.parseProfile(profile)
+	_, err = ff.parseProfile(profile)
 	if err != nil {
 		t.Fatal(err)
 	}
