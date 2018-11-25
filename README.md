@@ -2,6 +2,7 @@
 
 [![GoDoc](https://godoc.org/github.com/aisk/browsercookies?status.svg)](https://godoc.org/github.com/aisk/browsercookies)
 [![Go Report Card](https://goreportcard.com/badge/github.com/aisk/browsercookies)](https://goreportcard.com/report/github.com/aisk/browsercookies)
+[![Maintainability](https://api.codeclimate.com/v1/badges/ad3073a115dfe893f2b8/maintainability)](https://codeclimate.com/github/aisk/browsercookies/maintainability)
 
 Make HTTP requests with cookies from your browsers!
 
