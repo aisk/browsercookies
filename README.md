@@ -1,6 +1,7 @@
 # browsercookies
 
 [![GoDoc](https://godoc.org/github.com/aisk/browsercookies?status.svg)](https://godoc.org/github.com/aisk/browsercookies)
+[![Go Report Card](https://goreportcard.com/badge/github.com/aisk/browsercookies)](https://goreportcard.com/report/github.com/aisk/browsercookies)
 
 Make HTTP requests with cookies from your browsers!
 
