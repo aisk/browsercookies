@@ -6,7 +6,7 @@
 
 Make HTTP requests with cookies from your browsers!
 
-![cookie jar](http://howthoughtful.co.za/wp-content/uploads/2017/07/Cookie-Jar-4-600x600.png)
+![cookie jar](https://www.kitchenistic.com/media/2019/08/best-cookie-jars.jpg)
 
 *This is a Go port of richardpenman's [browsercookie](https://bitbucket.org/richardpenman/browsercookie).*
 
