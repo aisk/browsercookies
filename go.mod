@@ -1,7 +1,7 @@
 module github.com/aisk/browsercookies
 
 require (
-	github.com/go-ini/ini v1.66.4
+	github.com/go-ini/ini v1.67.0
 	github.com/mattn/go-sqlite3 v1.14.9
 	github.com/mitchellh/go-homedir v1.1.0
 	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
